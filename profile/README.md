@@ -1,32 +1,31 @@
 # Nexory
 
-**Innovative Dev-Organisation für Web & Software.**  
-Wir beherrschen **HTML, CSS, JavaScript, PHP, SQL & Python** und entwickeln kreative, effiziente Projekte.
+**Innovative development organization for web & software.**  
+We specialize in **HTML, CSS, JavaScript, PHP, SQL & Python** and build creative, efficient projects.
 
 ---
 
-## 🚀 Projekte
+## 🚀 Projects
 
-**WEBSITEN**
+### **Websites**
 - **Frontend:** HTML, CSS, JS
 - **Backend:** PHP, JS  
-- **Datenbanken:** MySQL
+- **Databases:** MySQL
 
-
-**Discord Bots**
+### **Discord Bots**
 - **Frontend:** Python
 - **Backend:** Python  
-- **Datenbanken:** MySQL
+- **Databases:** MySQL
   
 ---
 
-## 🤝 Mitwirken
-Wir freuen uns über Beiträge!  
-Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details.
+## 🤝 Contributing
+We welcome contributions!  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-## 🔗 Kontakt & Links
+## 🔗 Contact & Links
 - Website: *coming soon*  
-- Insta: *coming soon*   
+- Instagram: *coming soon*  
 - Email: *coming soon*
