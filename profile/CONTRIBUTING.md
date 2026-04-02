@@ -21,7 +21,7 @@ Thank you for contributing to our projects! This guide helps us keep everything 
 
 ## 3️⃣ Pull Requests (PR)
 1. Push your changes to your feature branch.
-2. Open a pull request (PR) targeting `testbereich`.
+2. Open a pull request (PR) targeting `testing area`.
 3. Clearly describe **what was changed and why**.
 4. Ensure there are no errors or merge conflicts.
 5. A PR will only be **merged after review** by an Administrator or Owner.
