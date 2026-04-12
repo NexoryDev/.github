@@ -8,7 +8,7 @@ We specialize in **HTML, CSS, JavaScript, PHP, SQL & Python** and build creative
 ## 🚀 Projects
 
 ### **Websites**
-- **Frontend:** HTML, CSS, JS
+- **Frontend:** HTML, CSS, JS, React
 - **Backend:** PHP, JS  
 - **Databases:** MySQL
 
