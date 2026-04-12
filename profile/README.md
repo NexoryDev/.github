@@ -10,7 +10,8 @@ We specialize in **HTML, CSS, JavaScript, PHP, SQL & Python** and build creative
 ### **Websites**
 - **Frontend:** HTML, CSS, JS (React mit JSX)
 - **Backend:** PHP
-- **Databases:** MySQL
+- **Build:** Node.js + npm
+- **Databases:** MySQL, JSON
 
 ### **Discord Bots**
 - **Frontend:** Python
