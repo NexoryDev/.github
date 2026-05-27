@@ -8,8 +8,8 @@ We specialize in **HTML, CSS, JavaScript, PHP, SQL & Python** and build creative
 ## 🚀 Projects
 
 ### **Websites**
-- **Frontend:** HTML, CSS, JS (React mit JSX)
-- **Backend:** PHP
+- **Frontend:** HTML, CSS, JS, React
+- **Backend:** Python Flask, PHP
 - **Build:** Node.js + npm
 - **Databases:** MySQL, JSON
 
@@ -27,6 +27,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ---
 
 ## 🔗 Contact & Links
-- Website: *coming soon*  
-- Instagram: *coming soon*  
-- Email: *coming soon*
+- Website: https://nexory-dev.de
+- Email: support@nexory-dev.de
